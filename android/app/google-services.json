@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849638515452",
+    "project_id": "blank-flutter-app-56b56",
+    "storage_bucket": "blank-flutter-app-56b56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849638515452:android:606971e2d44bcc5a1fad79",
+        "android_client_info": {
+          "package_name": "br.tec.diamondsolutions.blank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BfE-Ayt14I7WyrwmWHNH9YRKyowQTfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
